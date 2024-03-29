@@ -162,5 +162,4 @@ cython_debug/
 
 # Extra ignores added by @dkhundley
 .DS_Store
-data/
 keys/
