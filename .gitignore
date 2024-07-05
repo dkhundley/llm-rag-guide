@@ -163,3 +163,8 @@ cython_debug/
 # Extra ignores added by @dkhundley
 .DS_Store
 keys/
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate.*
+terraform.tfstate
+.terraform/*
