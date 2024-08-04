@@ -1,0 +1,1 @@
+resource_prefix = "stream_iam_role"
