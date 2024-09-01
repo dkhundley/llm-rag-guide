@@ -1,0 +1,12 @@
+faiss-cpu
+langchain
+langchain-community
+langchain-experimental
+langchain-openai
+langchain-text-splitters
+matplotlib
+numpy
+pandas
+polars
+ragas
+seaborn
