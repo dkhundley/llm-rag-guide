@@ -169,3 +169,4 @@ keys/
 terraform.tfstate.*
 terraform.tfstate
 .terraform/*
+*/aws_files/*
